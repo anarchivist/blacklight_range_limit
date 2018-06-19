@@ -1,6 +1,3 @@
-// for Blacklight.onLoad:
-//= require blacklight/core
-
 /* A custom event "plotDrawn.blacklight.rangeLimit" will be sent when flot plot
    is (re-)drawn on screen possibly with a new size. target of event will be the DOM element
    containing the plot.  Used to resize slider to match. */
